@@ -1,0 +1,11 @@
+"folder_path": "data", -> Especifica la ruta de la carpeta donde se encuentran los datos de entrada.
+
+"file_path": "data_sample.csv", -> Especifica la ruta de la carpeta donde se encuentran los datos de entrada.
+
+"output_folder": "results", -> Indica la carpeta donde se guardarán los resultados o salidas generadas.
+
+"augmentation_factor": 5, -> Un valor numérico que probablemente se utiliza para determinar la cantidad de datos que se generarán en un proceso de aumentación.
+
+"positive_codes": [1, 2, 3], -> Listas de códigos que se clasifican como positivos o negativos.
+
+"negative_codes": [10, 11, 12, 13, 14, 15] -> Listas de códigos que se clasifican como positivos o negativos.
