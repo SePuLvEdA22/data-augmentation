@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Archivos de configuración de entorno
+.env
+.env.*
+
+# Archivos de datos y resultados generados
+results/
+data/raw/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# No ignorar los archivos de configuración, scripts y documentación
+!config/
+!config/config.json
+!src/
+!src/data_augmentation.py
+!docs/
+!docs/documentation.txt
+!README.md
