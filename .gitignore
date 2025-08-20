@@ -28,6 +28,9 @@ data/raw/
 *.tmp
 *.log
 
+# Archivos .gitkeep para carpetas vacías
+.gitkeep
+
 # Archivos de sistema
 .DS_Store
 Thumbs.db
