@@ -22,7 +22,7 @@ ENV/
 
 # Archivos de datos y resultados generados
 results/
-data/raw/
+
 
 # Archivos temporales
 *.tmp
